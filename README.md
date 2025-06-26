@@ -9,13 +9,6 @@ A sleek, modern, and responsive password generator built with HTML, CSS, and Jav
 
 ---
 
-## 📸 Screenshots
-
-![Password Generator UI Preview](![image](https://github.com/user-attachments/assets/038c0b9b-ae96-4b09-ab56-109ffc5eaf66)
-) 
-
----
-
 ## ⚙️ Features
 
 - ✅ Generate secure, random passwords
