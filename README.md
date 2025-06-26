@@ -34,3 +34,9 @@ A sleek, modern, and responsive password generator built with HTML, CSS, and Jav
 ```bash
 git clone https://github.com/Adroeed100/Password-Generator-App.git
 cd Password-Generator-App
+```
+
+### 2. Run the Application
+```bash
+npm start
+```
